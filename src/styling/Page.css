@@ -1,0 +1,43 @@
+.page {
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.page__left {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.page__left h5 {
+  color: #1e242c;
+  font-size: 35px;
+}
+
+.page__left p {
+  margin-top: 10px;
+  color: #a1a3a6;
+}
+
+.page__right {
+  margin: 20px;
+}
+
+.page__left button {
+  margin-top: 5px;
+  border-radius: 25px !important;
+  background-color: #fa505a;
+  color: aliceblue;
+  font-weight: 500;
+  padding: 10px 35px;
+  outline: none;
+  border: none !important;
+}
+
+
+
+

@@ -1,0 +1,37 @@
+.messageButton {
+  position: absolute;
+  bottom: 15px;
+  right: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 55px;
+  height: 55px;
+  cursor: pointer;
+}
+
+.chatbot {
+  position: absolute;
+  bottom: 90px;
+  right: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 365px;
+  max-height: 435px;
+  z-index: 100;
+}
+
+.messageButton img {
+  height: 55px;
+  width: 55px;
+}
+
+.chatbot iframe {
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  outline: none !important;
+  border: none !important;
+  box-shadow: 0px 0px 20px 8px rgba(24, 119, 242, 0.4);
+}
