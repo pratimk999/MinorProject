@@ -22,7 +22,7 @@ function MessageButton() {
           ></iframe>
         )}
       </div>
-      <div className="messageButton" onClick={open} data-aos="flip-right">
+      <div className="messageButton" onClick={open}>
         {isOpen ? <img src={cross} alt="" /> : <img src={message} alt="" />}
       </div>
     </>
