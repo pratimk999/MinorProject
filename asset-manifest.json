@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MinorProject/static/css/main.e519d1d0.chunk.css",
+    "main.js": "/MinorProject/static/js/main.ee1d6d13.chunk.js",
+    "main.js.map": "/MinorProject/static/js/main.ee1d6d13.chunk.js.map",
+    "runtime-main.js": "/MinorProject/static/js/runtime-main.0f893474.js",
+    "runtime-main.js.map": "/MinorProject/static/js/runtime-main.0f893474.js.map",
+    "static/css/2.1c44f44c.chunk.css": "/MinorProject/static/css/2.1c44f44c.chunk.css",
+    "static/js/2.68da122d.chunk.js": "/MinorProject/static/js/2.68da122d.chunk.js",
+    "static/js/2.68da122d.chunk.js.map": "/MinorProject/static/js/2.68da122d.chunk.js.map",
+    "index.html": "/MinorProject/index.html",
+    "static/css/2.1c44f44c.chunk.css.map": "/MinorProject/static/css/2.1c44f44c.chunk.css.map",
+    "static/css/main.e519d1d0.chunk.css.map": "/MinorProject/static/css/main.e519d1d0.chunk.css.map",
+    "static/js/2.68da122d.chunk.js.LICENSE.txt": "/MinorProject/static/js/2.68da122d.chunk.js.LICENSE.txt",
+    "static/media/CHATBOTPIC.de50433a.PNG": "/MinorProject/static/media/CHATBOTPIC.de50433a.PNG",
+    "static/media/bot.c9a3a7af.gif": "/MinorProject/static/media/bot.c9a3a7af.gif",
+    "static/media/email.a49e0158.png": "/MinorProject/static/media/email.a49e0158.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f893474.js",
+    "static/css/2.1c44f44c.chunk.css",
+    "static/js/2.68da122d.chunk.js",
+    "static/css/main.e519d1d0.chunk.css",
+    "static/js/main.ee1d6d13.chunk.js"
+  ]
+}
